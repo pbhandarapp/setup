@@ -32,28 +32,36 @@ t_nav_mcq|Organic|Chemistry|2|1|icon_organic.png|a|https://cdn.jsdelivr.net/gh/k
 t_nav_mcq|Physical Chem|Chemistry|2|0|icon_physical.png|a|https://cdn.jsdelivr.net/gh/kamleshwebnet/book_html/historyquiz.csv
 t_nav_mcq|Mechanics|Physics|2|1|icon_mechanics.png|a|https://cdn.jsdelivr.net/gh/kamleshwebnet/book_html/historyquiz.csv
 t_nav_mcq|Thermodynamics|Physics|2|0|icon_thermo.png|a|https://cdn.jsdelivr.net/gh/kamleshwebnet/book_html/historyquiz.csv
-t_radio|Indian|Air News||https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8
-t_radio|Local|Bhopal FM||https://air.pc.cdn.bitgravity.com/air/live/pbaudio146/chunklist.m3u8
-t_radio|Local|Indore FM||https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/chunklist.m3u8
-t_radio|Local|Jabalpur FM||https://air.pc.cdn.bitgravity.com/air/live/pbaudio167/chunklist.m3u8
-t_radio|Local|Gwalior FM||https://air.pc.cdn.bitgravity.com/air/live/pbaudio205/chunklist.m3u8
-t_radio|Local|Bhopal FM||https://air.pc.cdn.bitgravity.com/air/live/pbaudio146/chunklist.m3u8
-t_radio|Local|Indore FM||https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/chunklist.m3u8
-t_radio|Local|Jabalpur FM||https://air.pc.cdn.bitgravity.com/air/live/pbaudio167/chunklist.m3u8
-t_radio|Local|Gwalior FM||https://air.pc.cdn.bitgravity.com/air/live/pbaudio205/chunklist.m3u8
-t_radio|Local|Bhopal FM||https://air.pc.cdn.bitgravity.com/air/live/pbaudio146/chunklist.m3u8
-t_radio|Local|Indore FM||https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/chunklist.m3u8
-t_radio|Local|Jabalpur FM||https://air.pc.cdn.bitgravity.com/air/live/pbaudio167/chunklist.m3u8
+t_radio|AIR|Air News|img_fm_airnews|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8
+t_radio|AIR|FM Gold|img_fm_gold|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8
+t_radio|AIR|FM Rainbow|img_fm_rainbow}https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8
+t_radio|AIR|Vividh Bharti|img_fm_vividhbharti|https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8
+t_radio|MP AIR|Balaghat FM|img_fm_balaghat|https://air.pc.cdn.bitgravity.com/air/live/pbaudio091/playlist.m3u8
+t_radio|MP AIR|Betul FM|img_fm_betul|https://air.pc.cdn.bitgravity.com/air/live/pbaudio108/playlist.m3u8
+t_radio|MP AIR|Bhopal FM|img_fm_bhopal|https://air.pc.cdn.bitgravity.com/air/live/pbaudio146/chunklist.m3u8
+t_radio|MP AIR|Chatarpur FM|img_fm_chhatarpur|https://air.pc.cdn.bitgravity.com/air/live/pbaudio104/playlist.m3u8
+t_radio|MP AIR|Chhindwara FM|img_fm_chhindwara|https://air.pc.cdn.bitgravity.com/air/live/pbaudio113/playlist.m3u8
+t_radio|MP AIR|Guna FM|img_fm_guna|https://air.pc.cdn.bitgravity.com/air/live/pbaudio115/playlist.m3u8
+t_radio|MP AIR|Gwalior FM|img_fm_gwalior|https://air.pc.cdn.bitgravity.com/air/live/pbaudio205/chunklist.m3u8
+t_radio|MP AIR|Indore FM|img_fm_indore|https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/chunklist.m3u8
+t_radio|MP AIR|Jabalpur FM|img_fm_jabalpur|https://air.pc.cdn.bitgravity.com/air/live/pbaudio167/chunklist.m3u8
+t_radio|MP AIR|Khandwa FM|img_fm_khandwa|https://air.pc.cdn.bitgravity.com/air/live/pbaudio143/playlist.m3u8
+t_radio|MP AIR|Rewa FM|img_fm_rewa|https://air.pc.cdn.bitgravity.com/air/live/pbaudio225/playlist.m3u8
+t_radio|MP AIR|Sagar FM|img_fm_sagar|https://air.pc.cdn.bitgravity.com/air/live/pbaudio204/playlist.m3u8
+t_radio|MP AIR|Shahdol FM|img_fm_shandol|https://air.pc.cdn.bitgravity.com/air/live/pbaudio228/playlist.m3u8
+t_radio|MP AIR|Shivpuri FM|img_fm_shivpuri|https://air.pc.cdn.bitgravity.com/air/live/pbaudio171/playlist.m3u8
 t_radio|Artist Radio|Arijit Singh|img_fm_arijit|https://stream.zeno.fm/rfpf8qec94zuv
-t_radio|Artist Radio|A.R. Rahman|img_fm_arrahman|https://nl4.mystreaming.net/uber/bollywoodarrahman/icecast.audio
-t_radio|Artist Radio|Asha Bhosle|img_fm_ashaji|https://2.mystreaming.net/uber/bollywoodashabhosle/icecast.audio
-t_radio|Artist Radio|Himesh Reshammiya||https://stream.zeno.fm/wg53ebxp8hhvv
-t_radio|Artist Radio|Kishore Kumar||https://stream.zeno.fm/0ghtfp8ztm0uv
+t_radio|Artist Radio|A.R. Rahman|img_fm_arrahman|https://stream.zeno.fm/xk3g6h1vsa0uv
+t_radio|Artist Radio|Asha Bhosle|img_fm_ashaji|https://stream.zeno.fm/55dqsbewxwzuv
+t_radio|Artist Radio|Himesh Reshammiya|img_fm_himesh|https://stream.zeno.fm/wg53ebxp8hhvv
+t_radio|Artist Radio|Kishore Kumar|img_fm_kishore|https://stream.zeno.fm/0ghtfp8ztm0uv
+t_radio|Artist Radio|Kumar Sanu|img_fm_kumarsanu|https://stream.zeno.fm/xpp502dr97zuv
 t_radio|Artist Radio|Lata Mangeshkar|img_fm_lataji|https://stream.zeno.fm/87xam8pf7tzuv
-t_radio|Artist Radio|Mohammed Rafi||https://stream.zeno.fm/2xx62x8ztm0uv
-t_radio|Artist Radio|Shreya Ghosal||https://2.mystreaming.net/uber/bollywoodshreyaghosal/icecast.audio
-t_radio|Artist Radio|Sonu Nigam||https://nl4.mystreaming.net/uber/bollywoodsonunigam/icecast.audio
-t_radio|Artist Radio|Udit Narayan||https://stream.zeno.fm/saztm64ts0quv
+t_radio|Artist Radio|Mohammed Rafi|img_fm_rafi|https://stream.zeno.fm/2xx62x8ztm0uv
+t_radio|Artist Radio|Mukesh|img_fm_mukesh|https://stream.zeno.fm/mrcz5sus1p8uv
+t_radio|Artist Radio|Shreya Ghosal|img_fm_shreyaghosal|https://2.mystreaming.net/uber/bollywoodshreyaghosal/icecast.audio
+t_radio|Artist Radio|Sonu Nigam|img_fm_sonu|https://nl4.mystreaming.net/uber/bollywoodsonunigam/icecast.audio
+t_radio|Artist Radio|Udit Narayan|img_fm_uditnarayan|https://stream.zeno.fm/saztm64ts0quv
 t_radio|Devotional Radio|Bhakti Sangeet||https://stream.zeno.fm/ut3kgm1vsa0uv
 t_radio|Devotional Radio|Bhakti Sagar||https://stream.zeno.fm/lcida9v81nmvv
 t_radio|Devotional Radio|Bhajans Radio||https://s5.citrus3.com:8148/stream
