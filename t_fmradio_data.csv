@@ -1,7 +1,7 @@
 t_radio|AIR|Air News|img_fm_airnews.jpg|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8
 t_radio|AIR|FM Gold Delhi|img_fm_gold.jpg|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8
 t_radio|AIR|FM Rainbow|img_fm_rainbow.jpg|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8
-t_radio|AIR|Vividh Bharti|img_fm_vividhbharti.png|https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8
+t_radio|AIR|Vividh Bharti|img_fm_vividhbharti.png|https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
 t_radio|AIR|AIR Chennai FM Rainbow||https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/chunklist.m3u8
 t_radio|AIR|World Service 1||https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio231/hlspbaudio23164kbps.m3u8
 t_radio|AIR|World Service 2||https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio232/hlspbaudio23264kbps.m3u8
@@ -37,7 +37,15 @@ t_radio|Artist Radio|Udit Narayan|img_fm_uditnarayan.jpg|https://stream.zeno.fm/
 t_radio|Artist Radio|NADEEM-SHRAVAN MELODIES||https://stream.zeno.fm/iewyuwyggmqtv
 t_radio|Artist Radio|Jubin Nautiyal Radio||https://stream.zeno.fm/hktp6atuuy8uv
 t_radio|Artist Radio|Badshah ||https://stream.zeno.fm/mhttovf7xygtv
+t_radio|Artist Radio|Atif Aslam||http://194.49.53.85/uber-app/bollywoodatifaslam/icecast.audio
+t_radio|Artist Radio|Yo Yo Honey Singh||http://194.49.53.85/uber-app/bollywoodyoyohoneysingh/icecast.audio
+t_radio|Artist Radio|Alka Yagnik||http://194.49.53.85/uber-app/bollywoodalkayagnik/icecast.audio
+t_radio|Artist Radio|Mohammad Aziz||https://stream.zeno.fm/p5ny63td1d0uv
+t_radio|Artist Radio|Pritam Radio||http://194.49.53.85/uber-app/bollywoodpritam/icecast.audio
+t_radio|Artist Radio|Shah Rukh Khan FM||http://194.49.53.85/uber-app/bollywoodshahrukhkhan/icecast.audio
+t_radio|Artist Radio|Sanjay Deshpandey||http://sirius.shoutca.st:8608/stream
 t_radio|Artist Radio|Nusrat Fateh Ali Khan||https://stream.zeno.fm/479zgk9hhbruv
+t_radio|Artist Radio|Dil||https://stream-176.zeno.fm/gn4txvg9ps8uv
 t_radio|Bollywood Hits|Radio Banarasi||https://stream.zeno.fm/pw7nghtau0hvv
 t_radio|Bollywood Hits|Radio Jagriti||https://stream.zeno.fm/kgdue4hmffhvv
 t_radio|Bollywood Hits|Madhur Sangeet||https://stream.zeno.fm/yv2k0dp18vzuv
@@ -86,3 +94,4 @@ t_radio|Ghazals|Shaam e Ghazal||https://stream.zeno.fm/9zc25sfe268uv
 t_radio|Ghazals|mishalradio||https://stream.zeno.fm/q2suy3q8mg0uv
 t_radio|Ghazals|Best Ghazals||https://stream.zeno.fm/1rkrpc4d0k8uv
 t_radio|Ghazals|Dil say Dil tak||https://stream.zeno.fm/gun9488tbphvv
+t_radio|Ghazals|Ghazal Lovers||https://stream.zeno.fm/yo0kzyzedittv
