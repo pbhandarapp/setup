@@ -5,26 +5,6 @@
       "description": "Live TV channels, data, and icons.",
       "files": [
         {
-          "id": "livetv_schema",
-          "version": 20240523,
-          "type": "DB_UPDATE",
-          "url": "https://cdn.jsdelivr.net/gh/pbhandarapp/setup@main/t_onlinetv_schema.sql",
-          "params": {
-            "part": "schema",
-            "table": "t_onlinetv"
-          }
-        },
-        {
-          "id": "livetv_data",
-          "version": 20240523,
-          "type": "DB_UPDATE",
-          "url": "https://cdn.jsdelivr.net/gh/pbhandarapp/setup@main/t_onlinetv_data.csv",
-          "params": {
-            "part": "data",
-            "table": "t_onlinetv"
-          }
-        },
-        {
           "id": "livetv_icons",
           "version": 20240523,
           "type": "UNZIP_ICONS",
@@ -119,3 +99,4 @@
   ]
 
 }
+
