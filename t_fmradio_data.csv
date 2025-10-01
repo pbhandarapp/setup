@@ -1,97 +1,428 @@
-t_radio|AIR|Air News|img_fm_airnews.jpg|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8
-t_radio|AIR|FM Gold Delhi|img_fm_gold.jpg|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8
-t_radio|AIR|FM Rainbow|img_fm_rainbow.jpg|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8
-t_radio|AIR|Vividh Bharti|img_fm_vividhbharti.png|https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
-t_radio|AIR|AIR Chennai FM Rainbow||https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/chunklist.m3u8
-t_radio|AIR|World Service 1||https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio231/hlspbaudio23164kbps.m3u8
-t_radio|AIR|World Service 2||https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio232/hlspbaudio23264kbps.m3u8
-t_radio|AIR|FM Gold Mumbai||https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio007/hlspbaudio00764kbps.m3u8
-t_radio|AIR|FM Rainbow Mumbai||https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio008/hlspbaudio00864kbps.m3u8
-t_radio|MP AIR|Balaghat FM|img_fm_balaghat.jpg|https://air.pc.cdn.bitgravity.com/air/live/pbaudio091/playlist.m3u8
-t_radio|MP AIR|Betul FM|img_fm_betul.jpg|https://air.pc.cdn.bitgravity.com/air/live/pbaudio108/playlist.m3u8
-t_radio|MP AIR|Bhopal FM|img_fm_bhopal.jpg|https://air.pc.cdn.bitgravity.com/air/live/pbaudio146/chunklist.m3u8
-t_radio|MP AIR|Chatarpur FM|img_fm_chhatarpur.jpg|https://air.pc.cdn.bitgravity.com/air/live/pbaudio104/playlist.m3u8
-t_radio|MP AIR|Chhindwara FM|img_fm_chhindwara.jpg|https://air.pc.cdn.bitgravity.com/air/live/pbaudio113/playlist.m3u8
-t_radio|MP AIR|Guna FM|img_fm_guna.jpg|https://air.pc.cdn.bitgravity.com/air/live/pbaudio115/playlist.m3u8
-t_radio|MP AIR|Gwalior FM|img_fm_gwalior.jpg|https://air.pc.cdn.bitgravity.com/air/live/pbaudio205/chunklist.m3u8
-t_radio|MP AIR|Indore FM|img_fm_indore.jpg|https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/chunklist.m3u8
-t_radio|MP AIR|Jabalpur FM|img_fm_jabalpur.jpg|https://air.pc.cdn.bitgravity.com/air/live/pbaudio167/chunklist.m3u8
-t_radio|MP AIR|Khandwa FM|img_fm_khandwa.jpg|https://air.pc.cdn.bitgravity.com/air/live/pbaudio143/playlist.m3u8
-t_radio|MP AIR|Rewa FM|img_fm_rewa.jpg|https://air.pc.cdn.bitgravity.com/air/live/pbaudio225/playlist.m3u8
-t_radio|MP AIR|Sagar FM|img_fm_sagar.jpg|https://air.pc.cdn.bitgravity.com/air/live/pbaudio204/playlist.m3u8
-t_radio|MP AIR|Shahdol FM|img_fm_shandol.jpg|https://air.pc.cdn.bitgravity.com/air/live/pbaudio228/playlist.m3u8
-t_radio|MP AIR|Shivpuri FM|img_fm_shivpuri.jpg|https://air.pc.cdn.bitgravity.com/air/live/pbaudio171/playlist.m3u8
-t_radio|Artist Radio|Arijit Singh|img_fm_arijit.jpg|https://stream.zeno.fm/rfpf8qec94zuv
-t_radio|Artist Radio|A.R. Rahman|img_fm_arrahman.jpg|https://stream.zeno.fm/xk3g6h1vsa0uv
-t_radio|Artist Radio|Asha Bhosle|img_fm_ashaji.jpg|https://stream.zeno.fm/55dqsbewxwzuv
-t_radio|Artist Radio|Himesh Reshammiya|img_fm_himesh.jpg|https://stream.zeno.fm/wg53ebxp8hhvv
-t_radio|Artist Radio|Kishore Kumar|img_fm_kishore.jpg|https://stream.zeno.fm/0ghtfp8ztm0uv
-t_radio|Artist Radio|R D Burman|img_fm_rdburman.jpg|https://stream.zeno.fm/arx5ebzscfpvv
-t_radio|Artist Radio|Kumar Sanu|img_fm_kumarsanu.jpg|https://stream.zeno.fm/xpp502dr97zuv
-t_radio|Artist Radio|Lata Mangeshkar|img_fm_lataji.jpg|https://stream.zeno.fm/87xam8pf7tzuv
-t_radio|Artist Radio|Mohammed Rafi|img_fm_rafi.jpg|https://stream.zeno.fm/2xx62x8ztm0uv
-t_radio|Artist Radio|Mukesh|img_fm_mukesh.png|https://stream.zeno.fm/mrcz5sus1p8uv
-t_radio|Artist Radio|Shreya Ghosal|img_fm_shreyaghosal.jpg|https://2.mystreaming.net/uber/bollywoodshreyaghosal/icecast.audio
-t_radio|Artist Radio|Sonu Nigam|img_fm_sonu.jpg|https://nl4.mystreaming.net/uber/bollywoodsonunigam/icecast.audio
-t_radio|Artist Radio|Udit Narayan|img_fm_uditnarayan.jpg|https://stream.zeno.fm/saztm64ts0quv
-t_radio|Artist Radio|NADEEM-SHRAVAN MELODIES||https://stream.zeno.fm/iewyuwyggmqtv
-t_radio|Artist Radio|Jubin Nautiyal Radio||https://stream.zeno.fm/hktp6atuuy8uv
-t_radio|Artist Radio|Badshah ||https://stream.zeno.fm/mhttovf7xygtv
-t_radio|Artist Radio|Atif Aslam||http://194.49.53.85/uber-app/bollywoodatifaslam/icecast.audio
-t_radio|Artist Radio|Yo Yo Honey Singh||http://194.49.53.85/uber-app/bollywoodyoyohoneysingh/icecast.audio
-t_radio|Artist Radio|Alka Yagnik||http://194.49.53.85/uber-app/bollywoodalkayagnik/icecast.audio
-t_radio|Artist Radio|Mohammad Aziz||https://stream.zeno.fm/p5ny63td1d0uv
-t_radio|Artist Radio|Pritam Radio||http://194.49.53.85/uber-app/bollywoodpritam/icecast.audio
-t_radio|Artist Radio|Shah Rukh Khan FM||http://194.49.53.85/uber-app/bollywoodshahrukhkhan/icecast.audio
-t_radio|Artist Radio|Sanjay Deshpandey||http://sirius.shoutca.st:8608/stream
-t_radio|Artist Radio|Nusrat Fateh Ali Khan||https://stream.zeno.fm/479zgk9hhbruv
-t_radio|Artist Radio|Dil||https://stream-176.zeno.fm/gn4txvg9ps8uv
-t_radio|Bollywood Hits|Radio Banarasi||https://stream.zeno.fm/pw7nghtau0hvv
-t_radio|Bollywood Hits|Radio Jagriti||https://stream.zeno.fm/kgdue4hmffhvv
-t_radio|Bollywood Hits|Madhur Sangeet||https://stream.zeno.fm/yv2k0dp18vzuv
-t_radio|Bollywood Hits|Euphonic Hindi Radio||https://stream.zeno.fm/zszmz90uz1zuv
-t_radio|Bollywood Hits|Goldy Fresh||https://stream.zeno.fm/5qp76a5h3p8uv
-t_radio|Bollywood Hits|Bhule Bisre Geet||https://stream.zeno.fm/w0k2z6r25c9uv
-t_radio|Bollywood Hits|GOLDY Evergreen||https://stream.zeno.fm/n2fd0edh9k8uv
-t_radio|Bollywood Hits|RADIO SAAWARIYA||https://stream.zeno.fm/wymnyx812aotv
-t_radio|Bollywood Hits|Radio Tarana||https://stream.zeno.fm/ceumr8uavp8uv
-t_radio|Bollywood Hits|Radio Andaaz||https://stream.zeno.fm/7681nkdb0rhvv
-t_radio|Bollywood Hits|Rocker Radio Geetmala||https://stream.zeno.fm/du9443htcfhvv
-t_radio|Bollywood Hits|RADIO BOLLYWOOD 90s||https://stream.zeno.fm/rm4i9pdex3cuv
-t_radio|Bollywood Hits|Radio Rainbow||https://stream.zeno.fm/x4hk2f8eqm0uv
-t_radio|Bollywood Hits|Radio puraina||https://stream.zeno.fm/eryjzxpzptptv
-t_radio|Bollywood Hits|Taal Radio||https://stream.zeno.fm/cngd2qk67reuv
-t_radio|Bollywood Hits|hits bollywood Hindi FM||https://node-14.zeno.fm/rqqps6cbe3quv
-t_radio|Bollywood Hits|Hits Of Bollywood||https://node-01.zeno.fm/60ef4p33vxquv
-t_radio|Bollywood Hits|Radio namkin||https://stream.zeno.fm/yg1qhsbaqv5tv
-t_radio|Bollywood Hits|Radio Retro Bollywood||https://node-22.zeno.fm/g372rxef798uv
-t_radio|Bollywood Hits|Classic Radio Legends Only||https://stream.zeno.fm/frkifolbsryuv
-t_radio|Bollywood Hits|Bollywood Gold Revivals||https://stream.zeno.fm/0xsvm1nr7a5tv
-t_radio|Bollywood Hits|Goldy Cool||https://stream.zeno.fm/3k1fb86tfm8uv
-t_radio|Bollywood Hits|Old Hindi Songs||https://stream.zeno.fm/gg93xd8k097vv
-t_radio|Bollywood Hits|ZRedio||https://stream.zeno.fm/0xxput979e9uv
-t_radio|Bollywood Hits|RADIO HUMSAFAR||https://stream.zeno.fm/szfmr54krc9uv
-t_radio|Bollywood Hits|Bollywood Old Hits Radio||https://stream.zeno.fm/1efk8x1cf18uv
-t_radio|Bollywood Hits|Radio Navrang||https://stream.zeno.fm/p3zdanqovy2tv
-t_radio|Bollywood Hits|Radio Sargam||https://stream.zeno.fm/c9hwuyc8mg0uv
-t_radio|Bollywood Hits|Radio Namaste||https://stream.zeno.fm/eapx1hpkehvvv
-t_radio|Bollywood Hits|Hindi Geet Radio||https://stream.zeno.fm/a4cxtzdhva0uv
-t_radio|Bollywood Hits|Music station||https://stream.zeno.fm/om9jek6w4zstv
-t_radio|Bollywood Hits|Bollywood brunch||https://stream.zeno.fm/39mkyw88bshvv
-t_radio|Bollywood Hits|The Golden Voice||https://stream.zeno.fm/sgoqws7n8njuv
-t_radio|Devotional Radio|Bhakti Sangeet||https://stream.zeno.fm/ut3kgm1vsa0uv
-t_radio|Devotional Radio|Bhakti Sagar||https://stream.zeno.fm/lcida9v81nmvv
-t_radio|Devotional Radio|Bhajans Radio||https://s5.citrus3.com:8148/stream
-t_radio|Devotional Radio|Bhaktiworld||https://stream.zeno.fm/nqvcaqevkx5vv
-t_radio|Devotional Radio|Bhagavad Gita||https://stream.zeno.fm/ijklcild1wrtv
-t_radio|Devotional Radio|Bhaktisudha||https://n0a.radiojar.com/cfqyfcspcv8uv
-t_radio|Devotional Radio|Radio Vedam||https://stream.sssmediacentre.org:8443/vedam
-t_radio|Devotional Radio|SHREEMAD BHAGWAD GITA SANSKRIT SHLOKAS||https://stream.zeno.fm/wt3zvx5ccnruv
-t_radio|Devotional Radio|Magic of Mahakaal||https://stream.zeno.fm/r463dcxbkg0uv
-t_radio|Devotional Radio|Radio Prabhat||https://stream.zeno.fm/2u5wz5p37vzuv
-t_radio|Ghazals|Ghazal||https://stream.zeno.fm/fx0nu8sg6ehvv
-t_radio|Ghazals|Shaam e Ghazal||https://stream.zeno.fm/9zc25sfe268uv
-t_radio|Ghazals|mishalradio||https://stream.zeno.fm/q2suy3q8mg0uv
-t_radio|Ghazals|Best Ghazals||https://stream.zeno.fm/1rkrpc4d0k8uv
-t_radio|Ghazals|Dil say Dil tak||https://stream.zeno.fm/gun9488tbphvv
-t_radio|Ghazals|Ghazal Lovers||https://stream.zeno.fm/yo0kzyzedittv
+t_radio|Artist Radio|Arijit Singh|ic_fm_arijitsingh.jpg||https://stream.zeno.fm/rfpf8qec94zuv
+t_radio|Artist Radio|A R Rahman|ic_fm_arrahman.jpg||https://stream.zeno.fm/xk3g6h1vsa0uv
+t_radio|Artist Radio|Asha Bhosle|ic_fm_ashabhosle.jpg||https://stream.zeno.fm/55dqsbewxwzuv
+t_radio|Artist Radio|Himesh Reshamiya|ic_fm_himeshreshamiya.jpg||https://stream.zeno.fm/wg53ebxp8hhvv
+t_radio|Artist Radio|Kishore Kumar|ic_fm_kishorekumar.jpg||https://stream.zeno.fm/0ghtfp8ztm0uv
+t_radio|Artist Radio|R D Burman|ic_fm_rdburman.jpg||https://stream.zeno.fm/arx5ebzscfpvv
+t_radio|Artist Radio|Kumar Sanu|ic_fm_kumarsanu.jpg||https://stream.zeno.fm/xpp502dr97zuv
+t_radio|Artist Radio|Lata Mangeshkar|ic_fm_latamangeshkar.jpg||https://stream.zeno.fm/87xam8pf7tzuv
+t_radio|Artist Radio|Mohammad Rafi|ic_fm_mohammadrafi.jpg||https://stream.zeno.fm/2xx62x8ztm0uv
+t_radio|Artist Radio|Amit Trivedi|ic_fm_amittrivedi.jpg||https://drive.uber.radio/uber/bollywoodamittrivedi/icecast.audio
+t_radio|Artist Radio|Mukesh|ic_fm_mukesh.jpg||https://stream.zeno.fm/mrcz5sus1p8uv
+t_radio|Artist Radio|Shreya Ghosal|ic_fm_shreyaghosal.jpg||https://drive.uber.radio/uber/bollywoodshreyaghosal/icecast.audio
+t_radio|Artist Radio|Neha Kakkar|ic_fm_nehakakkar.jpg||https://drive.uber.radio/uber/bollywoodneharkakkar/icecast.audio
+t_radio|Artist Radio|Sonu Nigam|ic_fm_sonunigam.jpg||https://drive.uber.radio/uber/bollywoodsonunigam/icecast.audio
+t_radio|Artist Radio|Udit Narayan|ic_fm_uditnarayan.jpg||https://stream.zeno.fm/saztm64ts0quv
+t_radio|Artist Radio|Nadeem Shravan|ic_fm_nadeemshravan.jpg||https://stream.zeno.fm/iewyuwyggmqtv
+t_radio|Artist Radio|Jubin Nautiyal|ic_fm_jubinnautiyal.jpg||https://stream.zeno.fm/hktp6atuuy8uv
+t_radio|Artist Radio|Badshah|ic_fm_badshah.jpg||https://stream.zeno.fm/mhttovf7xygtv
+t_radio|Artist Radio|Atif Aslam|ic_fm_atifaslam.jpg||https://drive.uber.radio/uber/bollywoodatifaslam/icecast.audio
+t_radio|Artist Radio|Yo Yo Honey Singh|ic_fm_yoyohoneysingh.jpg||https://drive.uber.radio/uber/bollywoodyoyohoneysingh/icecast.audio
+t_radio|Artist Radio|Armaan Malik|ic_fm_armaanmalik.jpg||https://drive.uber.radio/uber/bollywoodarmaanmalik/icecast.audio
+t_radio|Artist Radio|Alka Yagnik|ic_fm_alkayagnik.jpg||https://drive.uber.radio/uber/bollywoodalkayagnik/icecast.audio
+t_radio|Artist Radio|Mohammad Aziz|ic_fm_mohammadaziz.jpg||https://stream.zeno.fm/p5ny63td1d0uv
+t_radio|Artist Radio|Pritam Radio|ic_fm_pritamradio.jpg||https://drive.uber.radio/uber/bollywoodpritam/icecast.audio
+t_radio|Artist Radio|Shah Rukh Khan|ic_fm_shahrukhkhan.jpg||https://drive.uber.radio/uber/bollywoodshahrukhkhan/icecast.audio
+t_radio|Artist Radio|Vishal and Shekhar|ic_fm_vishalandshekhar.jpg||https://drive.uber.radio/uber/bollywoodvishalandshekhar/icecast.audio
+t_radio|Artist Radio|Nusrat Fateh Ali Khan|ic_fm_nusratfatehalikhan.jpg||https://stream.zeno.fm/479zgk9hhbruv
+t_radio|Artist Radio|Diljit Dosanjh|ic_fm_diljitdosanjh.jpg||https://stream.zeno.fm/gn4txvg9ps8uv
+t_radio|Devotional|Bhakti Sangeet|ic_fm_bhaktisangeet.jpeg||https://stream.zeno.fm/ut3kgm1vsa0uv
+t_radio|Devotional|Bhakti Sagar FM|ic_fm_bhaktisagarfm.png||https://stream.zeno.fm/lcida9v81nmvv
+t_radio|Devotional|Bhakti Sagar|ic_fm_bhaktisagar.jpg||https://stream.zeno.fm/lcida9v81nmvv
+t_radio|Devotional|Bhakti Sudha|ic_fm_bhaktisudha.jpg||https://n0a.radiojar.com/cfqyfcspcv8uv
+t_radio|Devotional|Mahakal|ic_fm_mahakal.png||https://stream.zeno.fm/xvrm5ezyurhvv
+t_radio|Devotional|Bhajan Radio|ic_fm_bhajanradio.png||https://stream.zeno.fm/93hyvktzw7zuv
+t_radio|Devotional|Bhajans Radio|ic_fm_bhajansradio.jpg||https://stream.zeno.fm/q9nc243ufm8uv
+t_radio|Devotional|Sneh Bhakti|ic_fm_snehbhakti.png||https://stream.zeno.fm/jqmyjaoycfkvv
+t_radio|Devotional|Radio Urja|ic_fm_radiourja.jpg||https://stream.zeno.fm/v1xxs012muhvv
+t_radio|Devotional|Bhakti Radio|ic_fm_bhaktiradio.jpg||https://stream.zeno.fm/epylmeu4zf7vv
+t_radio|Devotional|JK Bhakti Songs|ic_fm_jkbhaktisongs.jpg||https://stream.zeno.fm/ademztz737zuv
+t_radio|Devotional|Bhagavad Gita|ic_fm_bhagavadgita.png||https://stream.zeno.fm/ijklcild1wrtv
+t_radio|Devotional|Vishvas Radio|ic_fm_vishvasradio.jpg||http://servidor36-4.brlogic.com:7168/live
+t_radio|Devotional|Radio Premchand|ic_fm_radiopremchand.png||http://140.238.243.218/radio/8000/radio.mp3
+t_radio|Devotional|Sanskar Radio|ic_fm_sanskarradio.jpg||http://radio.canstream.co.uk:8024/live.mp3
+t_radio|Devotional|Manav Dharam Radio|ic_fm_manavdharamradio.png||http://s2.radio.co/scf28863e4/listen
+t_radio|Devotional|Prabhuji Radio|ic_fm_prabhujiradio.png||http://ais-edge106-live365-dal02.cdnstream.com/a24054
+t_radio|Devotional|Bhajans Radio Guyana|ic_fm_bhajansradioguyana.png||http://s5.citrus3.com:8148/stream
+t_radio|Devotional|Classic Bhakthi Sangeet|ic_fm_classicbhakthisangeet.png||https://stream.zeno.fm/0p9elrnkeshtv
+t_radio|Devotional|Radio Ananadha|ic_fm_radioananadha.png||https://s2.radio.co/sd65cc0e23/listen
+t_radio|Devotional|Sanatan Radio|ic_fm_sanatanradio.jpg||https://stream.zeno.fm/d6s8u613038uv
+t_radio|Devotional|Radio Namaste|ic_fm_radionamaste.jpg||https://stream.zeno.fm/eapx1hpkehvvv
+t_radio|Devotional|Shreemad Bhagwad Gita|ic_fm_shreemadbhagwadgita.jpg||https://stream.zeno.fm/wt3zvx5ccnruv
+t_radio|Devotional|Magic Of Mahakaal|ic_fm_magicofmahakaal.png||https://stream.zeno.fm/r463dcxbkg0uv
+t_radio|Devotional|Radio Prabhat|ic_fm_radioprabhat.jpg||https://stream.zeno.fm/2u5wz5p37vzuv
+t_radio|Ghazals|Geet Ghazal|ic_fm_geetghazal.jpg||https://stream.zeno.fm/fx0nu8sg6ehvv
+t_radio|Ghazals|Shaam E Ghazal|ic_fm_shaameghazal.jpg||https://stream.zeno.fm/9zc25sfe268uv
+t_radio|Ghazals|Mishal Radio|ic_fm_mishalradio.jpg||https://stream.zeno.fm/q2suy3q8mg0uv
+t_radio|Ghazals|Best Ghazals|ic_fm_bestghazals.jpg||https://stream.zeno.fm/1rkrpc4d0k8uv
+t_radio|Ghazals|Best Of Ghazals|ic_fm_bestofghazals.jpg||https://stream.zeno.fm/yo0kzyzedittv
+t_radio|Bollywood Hits|Aap ki Aawaz|ic_fm_aapkiaawaz.png||https://stream.zeno.fm/spm0t8gq45quv
+t_radio|Bollywood Hits|Agra Radio|ic_fm_agraradio.png||https://stream.zeno.fm/m1krtxpk11zuv
+t_radio|Bollywood Hits|Ajmer Radio|ic_fm_ajmerradio.png||https://stream.zeno.fm/yftb93nbay8uv
+t_radio|Bollywood Hits|Bhule Bisre Geet|ic_fm_bhulebisregeet.png||https://stream.zeno.fm/w0k2z6r25c9uv
+t_radio|Bollywood Hits|Bollywood 1990s|ic_fm_bollywood1990s.png||https://drive.uber.radio/uber/bollywood1990s/icecast.audio
+t_radio|Bollywood Hits|Bollywood 2000s|ic_fm_bollywood2000s.png||https://drive.uber.radio/uber/bollywood2000s/icecast.audio
+t_radio|Bollywood Hits|Bollywood 2010s|ic_fm_bollywood2010s.png||https://drive.uber.radio/uber/bollywood2010s/icecast.audio
+t_radio|Bollywood Hits|Bollywood Brunch|ic_fm_bollywoodbrunch.png||https://stream.zeno.fm/39mkyw88bshvv
+t_radio|Bollywood Hits|Bollywood Dil Se|ic_fm_bollywooddilse.jpg||https://stream.zeno.fm/143d7gty24zuv
+t_radio|Bollywood Hits|Bollywood Gold Revivals|ic_fm_bollywoodgoldrevivals.png||https://stream.zeno.fm/0xsvm1nr7a5tv
+t_radio|Bollywood Hits|Bollywood Hits|ic_fm_bollywoodhits.png||https://stream.zeno.fm/daqib2dazfnuv
+t_radio|Bollywood Hits|Bollywood is US|ic_fm_bollywoodisus.png||https://stream.zeno.fm/brpb679fq2zuv
+t_radio|Bollywood Hits|Bollywood Old Hits Radio|ic_fm_bollywoodoldhitsradio.png||https://stream.zeno.fm/1efk8x1cf18uv
+t_radio|Bollywood Hits|Bollywood Sad Songs Live Radio|ic_fm_bollywoodsadsongsliveradio.png||https://stream.zeno.fm/yvqymrxdxi7vv
+t_radio|Bollywood Hits|Bollywood Super Cool Hits|ic_fm_bollywoodsupercoolhits.png||https://stream.zeno.fm/xqsikanrsywvv
+t_radio|Bollywood Hits|Chandan Radio|ic_fm_chandanradio.png||https://stream.zeno.fm/we5qx49eguhvv
+t_radio|Bollywood Hits|Classic Radio Legends Only|ic_fm_classicradiolegendsonly.png||https://stream.zeno.fm/frkifolbsryuv
+t_radio|Bollywood Hits|Delhi FM|ic_fm_delhifm.png||https://stream.zeno.fm/q6w8u1hg3v8uv
+t_radio|Bollywood Hits|Dil ki Awaaz|ic_fm_dilkiawaaz.png||https://stream.zeno.fm/qbvlky6yxiytv
+t_radio|Bollywood Hits|Dil Say Dil Tak|ic_fm_dilsaydiltak.png||https://stream.zeno.fm/gun9488tbphvv
+t_radio|Bollywood Hits|Euphonic Hindi Radio|ic_fm_euphonichindiradio.jpg||https://stream.zeno.fm/zszmz90uz1zuv
+t_radio|Bollywood Hits|Evergreen Old Hindi Melodies|ic_fm_evergreenoldhindimelodies.png||https://stream.zeno.fm/gqt7yy9pc0hvv
+t_radio|Bollywood Hits|Gaane Purane|ic_fm_gaanepurane.jpeg||https://stream.zeno.fm/6n6ewddtad0uv
+t_radio|Bollywood Hits|Golden Voice|ic_fm_goldenvoice.png||https://stream.zeno.fm/sgoqws7n8njuv
+t_radio|Bollywood Hits|Goldy Blast|ic_fm_goldyblast.png||https://stream.zeno.fm/f15rqvwa6p8uv
+t_radio|Bollywood Hits|Goldy Classic|ic_fm_goldyclassic.png||https://stream.zeno.fm/hx2wtsw2kwkuv
+t_radio|Bollywood Hits|Goldy Cool|ic_fm_goldycool.png||https://stream.zeno.fm/3k1fb86tfm8uv
+t_radio|Bollywood Hits|Goldy Evergreen|ic_fm_goldyevergreen.png||https://stream.zeno.fm/n2fd0edh9k8uv
+t_radio|Bollywood Hits|Goldy Fresh|ic_fm_goldyfresh.png||https://stream.zeno.fm/5qp76a5h3p8uv
+t_radio|Bollywood Hits|Hindi Geet Radio|ic_fm_hindigeetradio.jpg||https://stream.zeno.fm/a4cxtzdhva0uv
+t_radio|Bollywood Hits|Hindi Radio 1|ic_fm_hindiradio1.png||https://stream.zeno.fm/7uw2w4yf7tzuv
+t_radio|Bollywood Hits|Hit of Bollywood|ic_fm_hitofbollywood.png||https://stream.zeno.fm/60ef4p33vxquv
+t_radio|Bollywood Hits|Hits Bollywood Hindi FM|ic_fm_hitsbollywoodhindifm.png||https://stream.zeno.fm/rqqps6cbe3quv
+t_radio|Bollywood Hits|Hits of Bollywood|ic_fm_hitsofbollywood.png||https://stream.zeno.fm/a2gyqzwpwfeuv
+t_radio|Bollywood Hits|Josh FM|ic_fm_joshfm.png||https://stream.zeno.fm/cw3cggbv1ceuv
+t_radio|Bollywood Hits|Katihar Radio|ic_fm_katiharradio.png||https://stream.zeno.fm/27d11qgm2p8uv
+t_radio|Bollywood Hits|Khamma Gani Rajasthan|ic_fm_khammaganirajasthan.png||https://stream.zeno.fm/cc9ez9yydy8uv
+t_radio|Bollywood Hits|Madhur Sangeet|ic_fm_madhursangeet.png||https://stream.zeno.fm/yv2k0dp18vzuv
+t_radio|Bollywood Hits|Malhans Hindi HQ Radio Canada|ic_fm_malhanshindihqradiocanada.png||https://stream.zeno.fm/2a5spg7xyp8uv
+t_radio|Bollywood Hits|Marwar Radio|ic_fm_marwarradio.png||https://stream.zeno.fm/vq6p5vxb4v8uv
+t_radio|Bollywood Hits|Mohabbat Radio|ic_fm_mohabbatradio.png||https://stream.zeno.fm/u7dyh8zsgtzuv
+t_radio|Bollywood Hits|Mumbai Radio|ic_fm_mumbairadio.png||https://stream.zeno.fm/u2ut6sspp2zuv
+t_radio|Bollywood Hits|Music Station|ic_fm_musicstation.jpg||https://stream.zeno.fm/om9jek6w4zstv
+t_radio|Bollywood Hits|My Radio Classic|ic_fm_myradioclassic.png||https://stream.zeno.fm/1k1x6z5whm0uv
+t_radio|Bollywood Hits|Namaste Bollywood|ic_fm_namastebollywood.png||https://stream.zeno.fm/cqak4ap7by8uv
+t_radio|Bollywood Hits|Namaste Radio|ic_fm_namasteradio.png||https://stream.zeno.fm/48vsu7quycauv
+t_radio|Bollywood Hits|New Hits of Bollywood|ic_fm_newhitsofbollywood.png||https://stream.zeno.fm/kr08sxc2tfeuv
+t_radio|Bollywood Hits|Nostalgic Bollywood 90s|ic_fm_nostalgicbollywood90s.png||https://stream.zeno.fm/4gfevnscvp8uv?
+t_radio|Bollywood Hits|Old Hindi Songs|ic_fm_oldhindisongs.png||https://stream.zeno.fm/gg93xd8k097vv
+t_radio|Bollywood Hits|Old Monk Radio|ic_fm_oldmonkradio.png||https://stream.zeno.fm/pr0zc64zdy8uv
+t_radio|Bollywood Hits|OMD Radio|ic_fm_omdradio.png||https://stream.zeno.fm/bc8t20d6vwzuv
+t_radio|Bollywood Hits|PauseHindi Lofi Radio|ic_fm_pausehindilofiradio.png||https://stream.zeno.fm/bqa04exah0hvv
+t_radio|Bollywood Hits|Radio 88|ic_fm_radio88.png||https://stream.zeno.fm/2dqen16529duv
+t_radio|Bollywood Hits|Radio Aaditi|ic_fm_radioaaditi.png||https://stream.zeno.fm/ynjkcll5jgctv
+t_radio|Bollywood Hits|Radio Andaaz|ic_fm_radioandaaz.png||https://stream.zeno.fm/7681nkdb0rhvv
+t_radio|Bollywood Hits|Radio Badal|ic_fm_radiobadal.png||https://stream.zeno.fm/nhrtcxg09u8uv
+t_radio|Bollywood Hits|Radio Baingan|ic_fm_radiobaingan.png||https://stream.zeno.fm/eyxg23ky4x8uv
+t_radio|Bollywood Hits|Radio Banarasi|ic_fm_radiobanarasi.png||https://stream.zeno.fm/pw7nghtau0hvv
+t_radio|Bollywood Hits|Radio Bimal|ic_fm_radiobimal.png||https://stream.zeno.fm/bzbpxfjxmpmuv
+t_radio|Bollywood Hits|Radio Bolly FM|ic_fm_radiobollyfm.jpg||https://stream.zeno.fm/49csmhebs2zuv
+t_radio|Bollywood Hits|Radio Bollywood 90s|ic_fm_radiobollywood90s.png||https://stream.zeno.fm/rm4i9pdex3cuv
+t_radio|Bollywood Hits|Radio Deewana|ic_fm_radiodeewana.png||https://stream.zeno.fm/x1q3r3qdxy8uv
+t_radio|Bollywood Hits|Radio Gaana|ic_fm_radiogaana.png||https://stream.zeno.fm/q1lehvqz74xuv
+t_radio|Bollywood Hits|Radio Humsafar|ic_fm_radiohumsafar.jpg||https://stream.zeno.fm/szfmr54krc9uv
+t_radio|Bollywood Hits|Radio Jagriti|ic_fm_radiojagriti.png||https://stream.zeno.fm/kgdue4hmffhvv
+t_radio|Bollywood Hits|Radio Junction|ic_fm_radiojunction.png||https://stream.zeno.fm/gg6vcxqd6nhvv
+t_radio|Bollywood Hits|Radio Live Bollywood Retro|ic_fm_radiolivebollywoodretro.png||https://stream.zeno.fm/8boxf3dsbp3vv
+t_radio|Bollywood Hits|Radio Loki|ic_fm_radioloki.png||https://stream.zeno.fm/tp0zckuyexhvv
+t_radio|Bollywood Hits|Radio Madhoshi|ic_fm_radiomadhoshi.png||https://stream.zeno.fm/7rsl8fsccf8uv
+t_radio|Bollywood Hits|Radio Madhur|ic_fm_radiomadhur.png||https://stream.zeno.fm/w50verzbyckvv
+t_radio|Bollywood Hits|Radio Masti|ic_fm_radiomasti.png||https://stream.zeno.fm/mtbm481cntzuv
+t_radio|Bollywood Hits|Radio Music Masala|ic_fm_radiomusicmasala.png||https://stream.zeno.fm/6ugedtsgcd0uv
+t_radio|Bollywood Hits|Radio Namkin|ic_fm_radionamkin.png||https://stream.zeno.fm/yg1qhsbaqv5tv
+t_radio|Bollywood Hits|Radio Navrang|ic_fm_radionavrang.png||https://stream.zeno.fm/p3zdanqovy2tv
+t_radio|Bollywood Hits|Radio Puraina|ic_fm_radiopuraina.png||https://stream.zeno.fm/eryjzxpzptptv
+t_radio|Bollywood Hits|Radio Rainbow|ic_fm_radiorainbow.png||https://stream.zeno.fm/x4hk2f8eqm0uv
+t_radio|Bollywood Hits|Radio Rang|ic_fm_radiorang.png||https://stream.zeno.fm/n58tt09cqchvv
+t_radio|Bollywood Hits|Radio Retro Bollywood|ic_fm_radioretrobollywood.jpg||https://stream.zeno.fm/g372rxef798uv
+t_radio|Bollywood Hits|Radio Saawariya|ic_fm_radiosaawariya.png||https://stream.zeno.fm/wymnyx812aotv
+t_radio|Bollywood Hits|Radio Sargam|ic_fm_radiosargam.jpg||https://stream.zeno.fm/c9hwuyc8mg0uv
+t_radio|Bollywood Hits|Radio Singham Club|ic_fm_radiosinghamclub.png||https://stream.zeno.fm/2vhb00mhky8uv
+t_radio|Bollywood Hits|Radio Tarana|ic_fm_radiotarana.png||https://stream.zeno.fm/ceumr8uavp8uv
+t_radio|Bollywood Hits|Radio Timez|ic_fm_radiotimez.png||https://stream.zeno.fm/a5217k8wkc9uv
+t_radio|Bollywood Hits|Radio Wow|ic_fm_radiowow.png||https://stream.zeno.fm/c6k6mdbst5quv
+t_radio|Bollywood Hits|Retro Bollywood|ic_fm_retrobollywood.jpg||https://stream.zeno.fm/v2zfmxef798uv
+t_radio|Bollywood Hits|Retro Bollywood 90s|ic_fm_retrobollywood90s.png||https://stream.zeno.fm/fdgs82xkzhhvv
+t_radio|Bollywood Hits|Rgazom FM|ic_fm_rgazomfm.png||https://stream.zeno.fm/yggpdpe2g4fvv
+t_radio|Bollywood Hits|Rocker Hindi Gold 2|ic_fm_rockerhindigold2.png||https://stream.zeno.fm/btrks671ynhvv
+t_radio|Bollywood Hits|Rocker Radio Geetmala|ic_fm_rockerradiogeetmala.png||https://stream.zeno.fm/du9443htcfhvv
+t_radio|Bollywood Hits|Rocker Radio Hindi Gold|ic_fm_rockerradiohindigold.png||https://stream.zeno.fm/6k9br3vydf9uv
+t_radio|Bollywood Hits|Rocker Radio Hindi Gold 70-90|ic_fm_rockerradiohindigold7090.png||https://stream.zeno.fm/uu4ah8gn4ehvv
+t_radio|Bollywood Hits|Romantic 90s|ic_fm_romantic90s.png||https://stream.zeno.fm/ho2kswpygjvtv
+t_radio|Bollywood Hits|Sab FM Live|ic_fm_sabfmlive.png||https://stream.zeno.fm/nxuwmwdmgg0uv
+t_radio|Bollywood Hits|Sangeet FM|ic_fm_sangeetfm.png||https://stream.zeno.fm/yuh30d3dxtzuv
+t_radio|Bollywood Hits|Shnasa Radio|ic_fm_shnasaradio.png||https://stream.zeno.fm/parck8te798uv
+t_radio|Bollywood Hits|Sur Dhanush|ic_fm_surdhanush.png||https://stream.zeno.fm/sfuav9vbe18uv
+t_radio|Bollywood Hits|Suvarna FM|ic_fm_suvarnafm.png||https://stream.zeno.fm/eephstq1visuv
+t_radio|Bollywood Hits|Taal Radio|ic_fm_taalradio.jpg||https://stream.zeno.fm/cngd2qk67reuv
+t_radio|Bollywood Hits|Wi Fi Zone FM|ic_fm_wifizonefm.png||https://stream.zeno.fm/x69f77dtfa0uv
+t_radio|Bollywood Hits|Z Redio|ic_fm_zredio.png||https://stream.zeno.fm/0xxput979e9uv
+t_radio|Bollywood Hits|Zest B Town Radio|ic_fm_zestbtownradio.png||https://stream.zeno.fm/2krb7bzqefhvv
+t_radio|Air|Anantapur|ic_fm_akashvanianantapur.jpg|Andhra Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio054/playlist.m3u8
+t_radio|Air|Andhra Pradesh|ic_fm_akashvaniandhrapradesh.jpg|Andhra Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio175/playlist.m3u8
+t_radio|Air|FM Rainbow Vijayawada|ic_fm_fmrainbowvijayawada.jpg|Andhra Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio174/playlist.m3u8
+t_radio|Air|FM Rainbow Visakhapatnam|ic_fm_fmrainbowvisakhapatnam.jpg|Andhra Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio081/playlist.m3u8
+t_radio|Air|FM Simahapuri Nellore|ic_fm_fmsimahapurinellore.jpg|Andhra Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio168/playlist.m3u8
+t_radio|Air|Kadapa|ic_fm_akashvanikadapa.jpg|Andhra Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio018/playlist.m3u8
+t_radio|Air|Kurnool|ic_fm_akashvanikurnool.jpg|Andhra Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio052/playlist.m3u8
+t_radio|Air|Markapur|ic_fm_akashvanimarkapur.jpg|Andhra Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio039/playlist.m3u8
+t_radio|Air|Tirupati|ic_fm_akashvanitirupati.jpg|Andhra Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio144/playlist.m3u8
+t_radio|Air|VB Telugu Vijayawada|ic_fm_vbteluguvijayawada.jpg|Andhra Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio176/playlist.m3u8
+t_radio|Air|Visakhapatnam|ic_fm_akashvanivisakhapatnam.jpg|Andhra Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio080/playlist.m3u8
+t_radio|Air|Sri Vijaya Puram|ic_fm_akashvanisrivijayapuram.jpeg|Andman Nicobar|https://air.pc.cdn.bitgravity.com/air/live/pbaudio038/playlist.m3u8
+t_radio|Air|FM Arun Itanagar|ic_fm_fmarunitanagar.jpg|Arunachal Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio234/playlist.m3u8
+t_radio|Air|Itanagar|ic_fm_akashvaniitanagar.jpg|Arunachal Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio277/playlist.m3u8
+t_radio|Air|Pasighat|ic_fm_akashvanipasighat.jpg|Arunachal Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio268/playlist.m3u8
+t_radio|Air|Tawang|ic_fm_akashvanitawang.jpg|Arunachal Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio272/playlist.m3u8
+t_radio|Air|Tezu|ic_fm_akashvanitezu.jpg|Arunachal Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio267/playlist.m3u8
+t_radio|Air|Dibrugarh|ic_fm_akashvanidibrugarh.jpg|Assam|https://air.pc.cdn.bitgravity.com/air/live/pbaudio255/playlist.m3u8
+t_radio|Air|Diphu|ic_fm_akashvanidiphu.jpg|Assam|https://air.pc.cdn.bitgravity.com/air/live/pbaudio271/playlist.m3u8
+t_radio|Air|Guwahati Mahabahu|ic_fm_akashvaniguwahatimahabahu.jpg|Assam|https://air.pc.cdn.bitgravity.com/air/live/pbaudio133/playlist.m3u8
+t_radio|Air|Guwahati Pragjyotishpur|ic_fm_akashvaniguwahatipragjyotishpur.jpg|Assam|https://air.pc.cdn.bitgravity.com/air/live/pbaudio237/playlist.m3u8
+t_radio|Air|Haflong|ic_fm_akashvanihaflong.jpg|Assam|https://air.pc.cdn.bitgravity.com/air/live/pbaudio258/playlist.m3u8
+t_radio|Air|Jorhat|ic_fm_akashvanijorhat.jpg|Assam|https://air.pc.cdn.bitgravity.com/air/live/pbaudio261/playlist.m3u8
+t_radio|Air|Kokrajhar|ic_fm_akashvanikokrajhar.jpeg|Assam|https://air.pc.cdn.bitgravity.com/air/live/pbaudio055/playlist.m3u8
+t_radio|Air|Nagaon|ic_fm_akashvaninagaon.jpg|Assam|https://air.pc.cdn.bitgravity.com/air/live/pbaudio260/playlist.m3u8
+t_radio|Air|Silchar|ic_fm_akashvanisilchar.jpg|Assam|https://air.pc.cdn.bitgravity.com/air/live/pbaudio090/playlist.m3u8
+t_radio|Air|Tezpur|ic_fm_akashvanitezpur.jpg|Assam|https://air.pc.cdn.bitgravity.com/air/live/pbaudio270/playlist.m3u8
+t_radio|Air|Bhagalpur|ic_fm_akashvanibhagalpur.jpg|Bihar|https://air.pc.cdn.bitgravity.com/air/live/pbaudio292/playlist.m3u8
+t_radio|Air|Darbhanga|ic_fm_akashvanidarbhanga.jpg|Bihar|https://air.pc.cdn.bitgravity.com/air/live/pbaudio160/playlist.m3u8
+t_radio|Air|FM Rainbow Patna|ic_fm_fmrainbowpatna.jpg|Bihar|https://air.pc.cdn.bitgravity.com/air/live/pbaudio252/playlist.m3u8
+t_radio|Air|Patna|ic_fm_akashvanipatna.jpg|Bihar|https://air.pc.cdn.bitgravity.com/air/live/pbaudio087/playlist.m3u8
+t_radio|Air|Purnia Bihar|ic_fm_akashvanipurniabihar.jpg|Bihar|https://air.pc.cdn.bitgravity.com/air/live/pbaudio147/playlist.m3u8
+t_radio|Air|Sasaram|ic_fm_akashvanisasaram.jpg|Bihar|https://air.pc.cdn.bitgravity.com/air/live/pbaudio075/playlist.m3u8
+t_radio|Air|VBS Patna|ic_fm_vbspatna.jpg|Bihar|https://air.pc.cdn.bitgravity.com/air/live/pbaudio251/playlist.m3u8
+t_radio|Air|Chandigarh|ic_fm_akashvanichandigarh.jpg|Chandigarh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio111/playlist.m3u8
+t_radio|Air|Ambikapur|ic_fm_akashvaniambikapur.jpg|Chhatisgarh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio086/playlist.m3u8
+t_radio|Air|Bilaspur|ic_fm_akashvanibilaspur.jpg|Chhatisgarh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio110/playlist.m3u8
+t_radio|Air|Chhattisgarh|ic_fm_akashvanichhattisgarh.jpg|Chhatisgarh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio118/playlist.m3u8
+t_radio|Air|FM Raipur|ic_fm_akashvanifmraipur.jpg|Chhatisgarh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio279/playlist.m3u8
+t_radio|Air|Jagdalpur|ic_fm_akashvanijagdalpur.jpg|Chhatisgarh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio201/playlist.m3u8
+t_radio|Air|Raigarh|ic_fm_akashvaniraigarh.jpg|Chhatisgarh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio196/playlist.m3u8
+t_radio|Air|Saraipali|ic_fm_akashvanisaraipali.jpg|Chhatisgarh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio254/playlist.m3u8
+t_radio|Air|Daman|ic_fm_akashvanidaman.jpg|Daman And Diu|https://air.pc.cdn.bitgravity.com/air/live/pbaudio208/playlist.m3u8
+t_radio|Air|Aaradhana|ic_fm_akashvaniaaradhana.jpg|Delhi|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio003/hlspbaudio003_Auto.m3u8
+t_radio|Air|FM Gold Delhi|ic_fm_fmgolddelhi.jpg|Delhi|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8
+t_radio|Air|FM Rainbow Delhi|ic_fm_fmrainbowdelhi.jpg|Delhi|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8
+t_radio|Air|Indraprastha|ic_fm_indraprastha.jpg|Delhi|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio006_Auto.m3u8
+t_radio|Air|VBS Delhi|ic_fm_vbsdelhi.jpeg|Delhi|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio238/hlspbaudio238_Auto.m3u8
+t_radio|Air|Mhadei Panaji|ic_fm_akashvanimhadeipanaji.jpg|Goa|https://air.pc.cdn.bitgravity.com/air/live/pbaudio049/playlist.m3u8
+t_radio|Air|VBS Panaji|ic_fm_vbspanaji.jpg|Goa|https://air.pc.cdn.bitgravity.com/air/live/pbaudio280/playlist.m3u8
+t_radio|Air|Ahwa|ic_fm_akashvaniahwa.jpg|Gujarat|https://air.pc.cdn.bitgravity.com/air/live/pbaudio236/playlist.m3u8
+t_radio|Air|Akashwani Gujarati|ic_fm_akashwanigujarati.jpg|Gujarat|https://air.pc.cdn.bitgravity.com/air/live/pbaudio135/playlist.m3u8
+t_radio|Air|Bhuj|ic_fm_akashvanibhuj.jpg|Gujarat|https://air.pc.cdn.bitgravity.com/air/live/pbaudio195/playlist.m3u8
+t_radio|Air|Godhra|ic_fm_akashvanigodhra.jpg|Gujarat|https://air.pc.cdn.bitgravity.com/air/live/pbaudio114/playlist.m3u8
+t_radio|Air|Himmatnagar|ic_fm_akashvanihimmatnagar.jpg|Gujarat|https://air.pc.cdn.bitgravity.com/air/live/pbaudio217/playlist.m3u8
+t_radio|Air|Rajkot|ic_fm_akashvanirajkot.jpg|Gujarat|https://air.pc.cdn.bitgravity.com/air/live/pbaudio155/playlist.m3u8
+t_radio|Air|Surat|ic_fm_akashvanisurat.jpg|Gujarat|https://air.pc.cdn.bitgravity.com/air/live/pbaudio186/playlist.m3u8
+t_radio|Air|Vadodara|ic_fm_akashvanivadodara.jpg|Gujarat|https://air.pc.cdn.bitgravity.com/air/live/pbaudio095/playlist.m3u8
+t_radio|Air|VBS Ahmedabad|ic_fm_vbsahmedabad.jpg|Gujarat|https://air.pc.cdn.bitgravity.com/air/live/pbaudio037/playlist.m3u8
+t_radio|Air|VBS Rajkot|ic_fm_vbsrajkot.jpg|Gujarat|https://air.pc.cdn.bitgravity.com/air/live/pbaudio156/playlist.m3u8
+t_radio|Air|Hisar|ic_fm_akashvanihisar.jpg|Haryana|https://air.pc.cdn.bitgravity.com/air/live/pbaudio165/playlist.m3u8
+t_radio|Air|Kurukshetra|ic_fm_akashvanikurukshetra.jpg|Haryana|https://air.pc.cdn.bitgravity.com/air/live/pbaudio213/playlist.m3u8
+t_radio|Air|Rohtak|ic_fm_akashvanirohtak.jpg|Haryana|https://air.pc.cdn.bitgravity.com/air/live/pbaudio188/playlist.m3u8
+t_radio|Air|Dharamshala|ic_fm_akashvanidharamshala.jpg|Himachal Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio165/playlist.m3u8
+t_radio|Air|Hamirpur FM|ic_fm_akashvanihamirpurfm.jpg|Himachal Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio243/playlist.m3u8
+t_radio|Air|Shimla|ic_fm_akashvanishimla.jpg|Himachal Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio043/playlist.m3u8
+t_radio|Air|Shimla FM|ic_fm_akashvanishimlafm.jpg|Himachal Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio042/playlist.m3u8
+t_radio|Air|Bhaderwah|ic_fm_akashvanibhaderwah.jpg|Jammu & Kashmir|https://air.pc.cdn.bitgravity.com/air/live/pbaudio246/playlist.m3u8
+t_radio|Air|Jammu|ic_fm_akashvanijammu.jpg|Jammu & Kashmir|https://air.pc.cdn.bitgravity.com/air/live/pbaudio128/playlist.m3u8
+t_radio|Air|Kathua|ic_fm_akashvanikathua.jpg|Jammu & Kashmir|https://air.pc.cdn.bitgravity.com/air/live/pbaudio190/playlist.m3u8
+t_radio|Air|Srinagar|ic_fm_akashvanisrinagar.jpg|Jammu & Kashmir|https://air.pc.cdn.bitgravity.com/air/live/pbaudio136/playlist.m3u8
+t_radio|Air|Chaibasa|ic_fm_akashvanichaibasa.jpg|Jharkhand|https://air.pc.cdn.bitgravity.com/air/live/pbaudio224/playlist.m3u8
+t_radio|Air|Daltonganj|ic_fm_akashvanidaltonganj.jpg|Jharkhand|https://air.pc.cdn.bitgravity.com/air/live/pbaudio202/playlist.m3u8
+t_radio|Air|FM Rainbow Ranchi|ic_fm_fmrainbowranchi.jpg|Jharkhand|https://air.pc.cdn.bitgravity.com/air/live/pbaudio253/playlist.m3u8
+t_radio|Air|Hazaribagh|ic_fm_akashvanihazaribagh.jpg|Jharkhand|https://air.pc.cdn.bitgravity.com/air/live/pbaudio197/playlist.m3u8
+t_radio|Air|Jamshedpur|ic_fm_akashvanijamshedpur.jpg|Jharkhand|https://air.pc.cdn.bitgravity.com/air/live/pbaudio216/playlist.m3u8
+t_radio|Air|Ranchi|ic_fm_akashvaniranchi.jpg|Jharkhand|https://air.pc.cdn.bitgravity.com/air/live/pbaudio199/playlist.m3u8
+t_radio|Air|VBS Jamshedpur|ic_fm_vbsjamshedpur.jpg|Jharkhand|https://air.pc.cdn.bitgravity.com/air/live/pbaudio266/playlist.m3u8
+t_radio|Air|VBS Ranchi|ic_fm_vbsranchi.jpg|Jharkhand|https://air.pc.cdn.bitgravity.com/air/live/pbaudio250/playlist.m3u8
+t_radio|Air|Amrutvarshini|ic_fm_amrutvarshini.jpg|Karnataka|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio028/hlspbaudio028_Auto.m3u8
+t_radio|Air|Bellari|ic_fm_akashvanibellari.jpg|Karnataka|https://air.pc.cdn.bitgravity.com/air/live/pbaudio114/playlist.m3u8
+t_radio|Air|Bhadravati|ic_fm_akashvanibhadravati.jpg|Karnataka|https://air.pc.cdn.bitgravity.com/air/live/pbaudio211/playlist.m3u8
+t_radio|Air|Bijapur|ic_fm_akashvanibijapur.jpg|Karnataka|https://air.pc.cdn.bitgravity.com/air/live/pbaudio145/playlist.m3u8
+t_radio|Air|Chitradurga|ic_fm_akashvanichitradurga.jpg|Karnataka|https://air.pc.cdn.bitgravity.com/air/live/pbaudio105/playlist.m3u8
+t_radio|Air|Dharwad|ic_fm_akashvanidharwad.jpg|Karnataka|https://air.pc.cdn.bitgravity.com/air/live/pbaudio150/playlist.m3u8
+t_radio|Air|Hassan|ic_fm_akashvanihassan.jpg|Karnataka|https://air.pc.cdn.bitgravity.com/air/live/pbaudio172/playlist.m3u8
+t_radio|Air|Hospet|ic_fm_akashvanihospet.jpg|Karnataka|https://air.pc.cdn.bitgravity.com/air/live/pbaudio184/playlist.m3u8
+t_radio|Air|Kalaburgi (Gulbarga)|ic_fm_akashvanikalaburgi(gulbarga).jpg|Karnataka|https://air.pc.cdn.bitgravity.com/air/live/pbaudio015/playlist.m3u8
+t_radio|Air|Karnataka|ic_fm_akashvanikarnataka.jpg|Karnataka|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio030/hlspbaudio030_Auto.m3u8
+t_radio|Air|Karwar|ic_fm_akashvanikarwar.jpg|Karnataka|https://air.pc.cdn.bitgravity.com/air/live/pbaudio123/playlist.m3u8
+t_radio|Air|Madikeri|ic_fm_akashvanimadikeri.jpg|Karnataka|https://air.pc.cdn.bitgravity.com/air/live/pbaudio068/playlist.m3u8
+t_radio|Air|Mangalore|ic_fm_akashvanimangalore.jpg|Karnataka|https://air.pc.cdn.bitgravity.com/air/live/pbaudio073/playlist.m3u8
+t_radio|Air|Mysuru|ic_fm_akashvanimysuru.jpg|Karnataka|https://air.pc.cdn.bitgravity.com/air/live/pbaudio177/playlist.m3u8
+t_radio|Air|Raichur|ic_fm_akashvaniraichur.jpg|Karnataka|https://air.pc.cdn.bitgravity.com/air/live/pbaudio198/playlist.m3u8
+t_radio|Air|Rainbow Kannada Kaamanbilu|ic_fm_rainbowkannadakaamanbilu.jpg|Karnataka|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio027/hlspbaudio027_Auto.m3u8
+t_radio|Air|VB KANNADA|ic_fm_vbkannada.jpg|Karnataka|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio026/hlspbaudio026_Auto.m3u8
+t_radio|Air|Calicut|ic_fm_akashvanicalicut.jpg|Kerala|https://air.pc.cdn.bitgravity.com/air/live/pbaudio082/playlist.m3u8
+t_radio|Air|Devikulam|ic_fm_akashvanidevikulam.jpg|Kerala|https://air.pc.cdn.bitgravity.com/air/live/pbaudio214/playlist.m3u8
+t_radio|Air|FM Rainbow Kochi|ic_fm_fmrainbowkochi.jpg|Kerala|https://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8
+t_radio|Air|Kannur|ic_fm_akashvanikannur.jpg|Kerala|https://air.pc.cdn.bitgravity.com/air/live/pbaudio173/playlist.m3u8
+t_radio|Air|Kerla|ic_fm_akashvanikerla.jpg|Kerala|https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8
+t_radio|Air|Kochi|ic_fm_akashvanikochi.jpg|Kerala|https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/playlist.m3u8
+t_radio|Air|Kozhikode Real FM|ic_fm_akashvanikozhikoderealfm.jpg|Kerala|https://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8
+t_radio|Air|Manjeri|ic_fm_akashvanimanjeri.jpg|Kerala|https://air.pc.cdn.bitgravity.com/air/live/pbaudio101/playlist.m3u8
+t_radio|Air|Thrissur|ic_fm_akashvanithrissur.jpg|Kerala|https://air.pc.cdn.bitgravity.com/air/live/pbaudio036/playlist.m3u8
+t_radio|Air|VB MALAYALAM|ic_fm_vbmalayalam.jpg|Kerala|https://air.pc.cdn.bitgravity.com/air/live/pbaudio229/playlist.m3u8
+t_radio|Air|Kargil|ic_fm_akashvanikargil.jpg|Ladakh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio066/playlist.m3u8
+t_radio|Air|Leh|ic_fm_akashvanileh.jpg|Ladakh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio223/playlist.m3u8
+t_radio|Air|Kavaratti|ic_fm_akashvanikavaratti.jpg|Lakshadweep|https://air.pc.cdn.bitgravity.com/air/live/pbaudio189/playlist.m3u8
+t_radio|Air|Balaghat|ic_fm_akashvanibalaghat.jpg|Madhya Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio091/playlist.m3u8
+t_radio|Air|Betul|ic_fm_akashvanibetul.jpg|Madhya Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio108/playlist.m3u8
+t_radio|Air|Bhopal|ic_fm_akashvanibhopal.jpg|Madhya Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio146/playlist.m3u8
+t_radio|Air|Chhatarpur|ic_fm_akashvanichhatarpur.jpg|Madhya Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio104/playlist.m3u8
+t_radio|Air|Chhindwara|ic_fm_akashvanichhindwara.jpg|Madhya Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio113/playlist.m3u8
+t_radio|Air|Guna|ic_fm_akashvaniguna.jpg|Madhya Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio115/playlist.m3u8
+t_radio|Air|Gwalior|ic_fm_akashvanigwalior.jpg|Madhya Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio205/playlist.m3u8
+t_radio|Air|Indore|ic_fm_akashvaniindore.jpg|Madhya Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8
+t_radio|Air|Jabalpur|ic_fm_akashvanijabalpur.jpg|Madhya Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio167/playlist.m3u8
+t_radio|Air|Jabalpur FM|ic_fm_akashvanijabalpurfm.jpg|Madhya Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio240/playlist.m3u8
+t_radio|Air|Khandwa|ic_fm_akashvanikhandwa.jpg|Madhya Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio143/playlist.m3u8
+t_radio|Air|Rewa|ic_fm_akashvanirewa.jpg|Madhya Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio225/playlist.m3u8
+t_radio|Air|Sagar|ic_fm_akashvanisagar.jpg|Madhya Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio204/playlist.m3u8
+t_radio|Air|Shahdol|ic_fm_akashvanishahdol.jpg|Madhya Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio228/playlist.m3u8
+t_radio|Air|Shivpuri|ic_fm_akashvanishivpuri.jpg|Madhya Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio171/playlist.m3u8
+t_radio|Air|VBS Bhopal|ic_fm_vbsbhopal.jpg|Madhya Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio248/playlist.m3u8
+t_radio|Air|VBS Indore|ic_fm_vbsindore.jpg|Madhya Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio241/playlist.m3u8
+t_radio|Air|Ahilyanagar|ic_fm_akashvaniahilyanagar.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio019/playlist.m3u8
+t_radio|Air|Akola|ic_fm_akashvaniakola.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio178/playlist.m3u8
+t_radio|Air|Amravati|ic_fm_akashvaniamravati.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio151/playlist.m3u8
+t_radio|Air|Beed|ic_fm_akashvanibeed.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio077/playlist.m3u8
+t_radio|Air|Chandrapur|ic_fm_akashvanichandrapur.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio074/playlist.m3u8
+t_radio|Air|Chhatrapati Sambhaji Nagar|ic_fm_akashvanichhatrapatisambhajinagar.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio065/playlist.m3u8
+t_radio|Air|Dharashiv|ic_fm_akashvanidharashiv.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio132/playlist.m3u8
+t_radio|Air|Dhule|ic_fm_akashvanidhule.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio079/playlist.m3u8
+t_radio|Air|FM Gold Mumbai|ic_fm_fmgoldmumbai.jpg|Maharashtra|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio007/hlspbaudio007_Auto.m3u8
+t_radio|Air|FM Rainbow Mumbai|ic_fm_fmrainbowmumbai.jpg|Maharashtra|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio008/hlspbaudio008_Auto.m3u8
+t_radio|Air|Jalgaon|ic_fm_akashvanijalgaon.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio096/playlist.m3u8
+t_radio|Air|Kolhapur|ic_fm_akashvanikolhapur.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio063/playlist.m3u8
+t_radio|Air|Marathi Mumbai Asmita|ic_fm_akashvanimarathimumbaiasmita.jpg|Maharashtra|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio010_Auto.m3u8
+t_radio|Air|Nagpur|ic_fm_akashvaninagpur.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio069/playlist.m3u8
+t_radio|Air|Nanded|ic_fm_akashvaninanded.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio072/playlist.m3u8
+t_radio|Air|Nasik|ic_fm_akashvaninasik.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio035/playlist.m3u8
+t_radio|Air|Parbhani|ic_fm_akashvaniparbhani.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio085/playlist.m3u8
+t_radio|Air|Pune|ic_fm_akashvanipune.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio012/playlist.m3u8
+t_radio|Air|Pune FM|ic_fm_akashvanipunefm.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8
+t_radio|Air|Ratnagiri|ic_fm_akashvaniratnagiri.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio071/playlist.m3u8
+t_radio|Air|Samvadita Mumbai|ic_fm_samvaditamumbai.jpg|Maharashtra|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio009/hlspbaudio009_Auto.m3u8
+t_radio|Air|Sangli|ic_fm_akashvanisangli.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio106/playlist.m3u8
+t_radio|Air|Satara|ic_fm_akashvanisatara.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio076/playlist.m3u8
+t_radio|Air|Sindhudurg|ic_fm_akashvanisindhudurg.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio219/playlist.m3u8
+t_radio|Air|Solapur|ic_fm_akashvanisolapur.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio093/playlist.m3u8
+t_radio|Air|VBS Mumbai|ic_fm_vbsmumbai.jpg|Maharashtra|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio011/hlspbaudio011_Auto.m3u8
+t_radio|Air|VBS Nagpur|ic_fm_vbsnagpur.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio070/playlist.m3u8
+t_radio|Air|Yavatmal|ic_fm_akashvaniyavatmal.jpg|Maharashtra|https://air.pc.cdn.bitgravity.com/air/live/pbaudio109/playlist.m3u8
+t_radio|Air|Churachandpur|ic_fm_akashvanichurachandpur.jpg|Manipur|https://air.pc.cdn.bitgravity.com/air/live/pbaudio273/playlist.m3u8
+t_radio|Air|Imphal Kangla|ic_fm_akashvaniimphalkangla.jpg|Manipur|https://air.pc.cdn.bitgravity.com/air/live/pbaudio209/playlist.m3u8
+t_radio|Air|Imphal Sangai|ic_fm_akashvaniimphalsangai.jpg|Manipur|https://air.pc.cdn.bitgravity.com/air/live/pbaudio210/playlist.m3u8
+t_radio|Air|FM Jongphi Shillong|ic_fm_fmjongphishillong.jpg|Meghalaya|https://air.pc.cdn.bitgravity.com/air/live/pbaudio264/playlist.m3u8
+t_radio|Air|Jowai|ic_fm_akashvanijowai.jpg|Meghalaya|https://air.pc.cdn.bitgravity.com/air/live/pbaudio265/playlist.m3u8
+t_radio|Air|North East Livestream|ic_fm_akashvaninortheastlivestream.jpg|Meghalaya|https://air.pc.cdn.bitgravity.com/air/live/pbaudio249/playlist.m3u8
+t_radio|Air|Shillong|ic_fm_akashvanishillong.jpg|Meghalaya|https://air.pc.cdn.bitgravity.com/air/live/pbaudio161/playlist.m3u8
+t_radio|Air|Tura|ic_fm_akashvanitura.jpg|Meghalaya|https://air.pc.cdn.bitgravity.com/air/live/pbaudio259/playlist.m3u8
+t_radio|Air|Aizawl|ic_fm_akashvaniaizawl.jpg|Mizoram|https://air.pc.cdn.bitgravity.com/air/live/pbaudio221/playlist.m3u8
+t_radio|Air|FM Zoawi Aizawl|ic_fm_fmzoawiaizawl.jpg|Mizoram|https://air.pc.cdn.bitgravity.com/air/live/pbaudio242/playlist.m3u8
+t_radio|Air|Lunglei|ic_fm_akashvanilunglei.jpg|Mizoram|https://air.pc.cdn.bitgravity.com/air/live/pbaudio269/playlist.m3u8
+t_radio|Air|FM Tragopan Kohima|ic_fm_fmtragopankohima.jpg|Nagaland|https://air.pc.cdn.bitgravity.com/air/live/pbaudio220/playlist.m3u8
+t_radio|Air|Kohima|ic_fm_akashvanikohima.jpg|Nagaland|https://air.pc.cdn.bitgravity.com/air/live/pbaudio274/playlist.m3u8
+t_radio|Air|Mokokchung|ic_fm_akashvanimokokchung.jpg|Nagaland|https://air.pc.cdn.bitgravity.com/air/live/pbaudio263/playlist.m3u8
+t_radio|Air|Live News 24x7|ic_fm_livenews24x7.jpg|National|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8
+t_radio|Air|Raagam|ic_fm_raagam.jpg|National|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam_Auto.m3u8
+t_radio|Air|Vividh Bharati|ic_fm_vividhbharati.jpg|National|https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
+t_radio|Air|Balangir|ic_fm_akashvanibalangir.jpg|Odisha|https://air.pc.cdn.bitgravity.com/air/live/pbaudio187/playlist.m3u8
+t_radio|Air|Baripada|ic_fm_akashvanibaripada.jpg|Odisha|https://air.pc.cdn.bitgravity.com/air/live/pbaudio158/playlist.m3u8
+t_radio|Air|Berhampur|ic_fm_akashvaniberhampur.jpg|Odisha|https://air.pc.cdn.bitgravity.com/air/live/pbaudio180/playlist.m3u8
+t_radio|Air|Bhawanipatna|ic_fm_akashvanibhawanipatna.jpg|Odisha|https://air.pc.cdn.bitgravity.com/air/live/pbaudio120/playlist.m3u8
+t_radio|Air|FM Rainbow Cuttack|ic_fm_fmrainbowcuttack.jpg|Odisha|https://air.pc.cdn.bitgravity.com/air/live/pbaudio102/playlist.m3u8
+t_radio|Air|Jeypore|ic_fm_akashvanijeypore.jpg|Odisha|https://air.pc.cdn.bitgravity.com/air/live/pbaudio112/playlist.m3u8
+t_radio|Air|Joranda|ic_fm_akashvanijoranda.jpg|Odisha|https://air.pc.cdn.bitgravity.com/air/live/pbaudio256/playlist.m3u8
+t_radio|Air|Keonjhar|ic_fm_akashvanikeonjhar.jpg|Odisha|https://air.pc.cdn.bitgravity.com/air/live/pbaudio166/playlist.m3u8
+t_radio|Air|Mahanadi Sambalpur|ic_fm_akashvanimahanadisambalpur.jpg|Odisha|https://air.pc.cdn.bitgravity.com/air/live/pbaudio182/playlist.m3u8
+t_radio|Air|Odia|ic_fm_akashvaniodia.jpg|Odisha|https://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8
+t_radio|Air|Puri FM|ic_fm_akashvanipurifm.jpg|Odisha|https://air.pc.cdn.bitgravity.com/air/live/pbaudio100/playlist.m3u8
+t_radio|Air|Rourkela|ic_fm_akashvanirourkela.jpg|Odisha|https://air.pc.cdn.bitgravity.com/air/live/pbaudio215/playlist.m3u8
+t_radio|Air|Sambalpur|ic_fm_akashvanisambalpur.jpg|Odisha|https://air.pc.cdn.bitgravity.com/air/live/pbaudio181/playlist.m3u8
+t_radio|Air|VBS Cuttack|ic_fm_vbscuttack.jpg|Odisha|https://air.pc.cdn.bitgravity.com/air/live/pbaudio103/playlist.m3u8
+t_radio|Air|FM Rainbow Puducherry|ic_fm_fmrainbowpuducherry.jpg|Puducherry|https://air.pc.cdn.bitgravity.com/air/live/pbaudio098/playlist.m3u8
+t_radio|Air|Karaikal|ic_fm_akashvanikaraikal.jpg|Puducherry|https://air.pc.cdn.bitgravity.com/air/live/pbaudio050/playlist.m3u8
+t_radio|Air|Puducherry|ic_fm_akashvanipuducherry.jpg|Puducherry|https://air.pc.cdn.bitgravity.com/air/live/pbaudio097/playlist.m3u8
+t_radio|Air|Bhatinda|ic_fm_akashvanibhatinda.jpg|Punjab|https://air.pc.cdn.bitgravity.com/air/live/pbaudio117/playlist.m3u8
+t_radio|Air|FM Rainbow Jalandhar|ic_fm_fmrainbowjalandhar.jpg|Punjab|https://air.pc.cdn.bitgravity.com/air/live/pbaudio134/playlist.m3u8
+t_radio|Air|Patiala|ic_fm_akashvanipatiala.jpg|Punjab|https://air.pc.cdn.bitgravity.com/air/live/pbaudio163/playlist.m3u8
+t_radio|Air|Punjabi|ic_fm_akashvanipunjabi.jpg|Punjab|https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/playlist.m3u8
+t_radio|Air|Alwar|ic_fm_akashvanialwar.jpg|Rajasthan|https://air.pc.cdn.bitgravity.com/air/live/pbaudio153/playlist.m3u8
+t_radio|Air|Banswara|ic_fm_akashvanibanswara.jpg|Rajasthan|https://air.pc.cdn.bitgravity.com/air/live/pbaudio014/playlist.m3u8
+t_radio|Air|Barmer|ic_fm_akashvanibarmer.jpg|Rajasthan|https://air.pc.cdn.bitgravity.com/air/live/pbaudio200/playlist.m3u8
+t_radio|Air|Bikaner|ic_fm_akashvanibikaner.jpg|Rajasthan|https://air.pc.cdn.bitgravity.com/air/live/pbaudio053/playlist.m3u8
+t_radio|Air|Chittorgarh|ic_fm_akashvanichittorgarh.jpg|Rajasthan|https://air.pc.cdn.bitgravity.com/air/live/pbaudio060/playlist.m3u8
+t_radio|Air|Churu|ic_fm_akashvanichuru.jpg|Rajasthan|https://air.pc.cdn.bitgravity.com/air/live/pbaudio226/playlist.m3u8
+t_radio|Air|Jaipur|ic_fm_akashvanijaipur.jpg|Rajasthan|https://air.pc.cdn.bitgravity.com/air/live/pbaudio192/playlist.m3u8
+t_radio|Air|Jaisalmer|ic_fm_akashvanijaisalmer.jpg|Rajasthan|https://air.pc.cdn.bitgravity.com/air/live/pbaudio206/playlist.m3u8
+t_radio|Air|Jhalawar|ic_fm_akashvanijhalawar.jpg|Rajasthan|https://air.pc.cdn.bitgravity.com/air/live/pbaudio157/playlist.m3u8
+t_radio|Air|Jodhpur|ic_fm_akashvanijodhpur.jpg|Rajasthan|https://air.pc.cdn.bitgravity.com/air/live/pbaudio088/playlist.m3u8
+t_radio|Air|Jodhpur Sun City FM|ic_fm_akashvanijodhpursuncityfm.jpg|Rajasthan|https://air.pc.cdn.bitgravity.com/air/live/pbaudio089/playlist.m3u8
+t_radio|Air|Kota|ic_fm_akashvanikota.jpg|Rajasthan|https://air.pc.cdn.bitgravity.com/air/live/pbaudio084/playlist.m3u8
+t_radio|Air|Mount Abu|ic_fm_akashvanimountabu.jpg|Rajasthan|https://air.pc.cdn.bitgravity.com/air/live/pbaudio159/playlist.m3u8
+t_radio|Air|Nagaur|ic_fm_akashvaninagaur.jpg|Rajasthan|https://air.pc.cdn.bitgravity.com/air/live/pbaudio170/playlist.m3u8
+t_radio|Air|Sawai Madhopur|ic_fm_akashvanisawaimadhopur.jpg|Rajasthan|https://air.pc.cdn.bitgravity.com/air/live/pbaudio119/playlist.m3u8
+t_radio|Air|Suratgarh|ic_fm_akashvanisuratgarh.jpg|Rajasthan|https://air.pc.cdn.bitgravity.com/air/live/pbaudio064/playlist.m3u8
+t_radio|Air|Udaipur|ic_fm_akashvaniudaipur.jpg|Rajasthan|https://air.pc.cdn.bitgravity.com/air/live/pbaudio148/playlist.m3u8
+t_radio|Air|Udaipur FM Lake CIty|ic_fm_akashvaniudaipurfmlakecity.jpg|Rajasthan|https://air.pc.cdn.bitgravity.com/air/live/pbaudio149/playlist.m3u8
+t_radio|Air|VBS Jaipur|ic_fm_vbsjaipur.jpg|Rajasthan|https://air.pc.cdn.bitgravity.com/air/live/pbaudio193/playlist.m3u8
+t_radio|Air|Gangtok|ic_fm_akashvanigangtok.jpg|Sikkim|https://air.pc.cdn.bitgravity.com/air/live/pbaudio227/playlist.m3u8
+t_radio|Air|Coimbatore|ic_fm_akashvanicoimbatore.jpg|Tamil Nadu|https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/playlist.m3u8
+t_radio|Air|Dharmapuri|ic_fm_akashvanidharmapuri.jpg|Tamil Nadu|https://air.pc.cdn.bitgravity.com/air/live/pbaudio078/playlist.m3u8
+t_radio|Air|FM Gold Chennai|ic_fm_fmgoldchennai.jpg|Tamil Nadu|https://air.pc.cdn.bitgravity.com/air/live/pbaudio021/playlist.m3u8
+t_radio|Air|FM Nagercoil Kumari|ic_fm_fmnagercoilkumari.jpg|Tamil Nadu|https://air.pc.cdn.bitgravity.com/air/live/pbaudio129/playlist.m3u8
+t_radio|Air|FM Rainbow Chennai|ic_fm_fmrainbowchennai.jpg|Tamil Nadu|https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/playlist.m3u8
+t_radio|Air|FM Rainbow Coimbatore|ic_fm_fmrainbowcoimbatore.jpg|Tamil Nadu|https://air.pc.cdn.bitgravity.com/air/live/pbaudio017/playlist.m3u8
+t_radio|Air|FM Rainbow Tirunelveli|ic_fm_fmrainbowtirunelveli.jpg|Tamil Nadu|https://air.pc.cdn.bitgravity.com/air/live/pbaudio062/playlist.m3u8
+t_radio|Air|Kodaikanal|ic_fm_akashvanikodaikanal.jpg|Tamil Nadu|https://air.pc.cdn.bitgravity.com/air/live/pbaudio051/playlist.m3u8
+t_radio|Air|Madurai|ic_fm_akashvanimadurai.jpg|Tamil Nadu|https://air.pc.cdn.bitgravity.com/air/live/pbaudio127/playlist.m3u8
+t_radio|Air|Ooty|ic_fm_akashvaniooty.jpg|Tamil Nadu|https://air.pc.cdn.bitgravity.com/air/live/pbaudio207/playlist.m3u8
+t_radio|Air|Tamil Nadu|ic_fm_akashvanitamilnadu.jpg|Tamil Nadu|https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8
+t_radio|Air|Tiruchirappalli|ic_fm_akashvanitiruchirappalli.jpg|Tamil Nadu|https://air.pc.cdn.bitgravity.com/air/live/pbaudio041/playlist.m3u8
+t_radio|Air|Tiruchirappalli FM|ic_fm_akashvanitiruchirappallifm.jpg|Tamil Nadu|https://air.pc.cdn.bitgravity.com/air/live/pbaudio040/playlist.m3u8
+t_radio|Air|Tirunelveli|ic_fm_akashvanitirunelveli.jpg|Tamil Nadu|https://air.pc.cdn.bitgravity.com/air/live/pbaudio061/playlist.m3u8
+t_radio|Air|Tuticorin|ic_fm_akashvanituticorin.jpg|Tamil Nadu|https://air.pc.cdn.bitgravity.com/air/live/pbaudio121/playlist.m3u8
+t_radio|Air|VB Tamil Chennai|ic_fm_vbtamilchennai.jpg|Tamil Nadu|https://air.pc.cdn.bitgravity.com/air/live/pbaudio024/playlist.m3u8
+t_radio|Air|Adilabad|ic_fm_akashvaniadilabad.jpg|Telangana|https://air.pc.cdn.bitgravity.com/air/live/pbaudio218/playlist.m3u8
+t_radio|Air|FM Rainbow Hyderabad|ic_fm_fmrainbowhyderabad.jpg|Telangana|https://air.pc.cdn.bitgravity.com/air/live/pbaudio031/playlist.m3u8
+t_radio|Air|Kothagudem|ic_fm_akashvanikothagudem.jpg|Telangana|https://air.pc.cdn.bitgravity.com/air/live/pbaudio116/playlist.m3u8
+t_radio|Air|Nizamabad|ic_fm_akashvaninizamabad.jpg|Telangana|https://air.pc.cdn.bitgravity.com/air/live/pbaudio222/playlist.m3u8
+t_radio|Air|Telangana|ic_fm_akashvanitelangana.jpg|Telangana|https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8
+t_radio|Air|VB Telugu Hyderabad|ic_fm_vbteluguhyderabad.jpg|Telangana|https://air.pc.cdn.bitgravity.com/air/live/pbaudio034/playlist.m3u8
+t_radio|Air|Warangal|ic_fm_akashvaniwarangal.jpg|Telangana|https://air.pc.cdn.bitgravity.com/air/live/pbaudio154/playlist.m3u8
+t_radio|Air|Agartala|ic_fm_akashvaniagartala.jpg|Tripura|https://air.pc.cdn.bitgravity.com/air/live/pbaudio131/playlist.m3u8
+t_radio|Air|Belonia|ic_fm_akashvanibelonia.jpg|Tripura|https://air.pc.cdn.bitgravity.com/air/live/pbaudio257/playlist.m3u8
+t_radio|Air|FM Ujjayanta Agartala|ic_fm_fmujjayantaagartala.jpg|Tripura|https://air.pc.cdn.bitgravity.com/air/live/pbaudio130/playlist.m3u8
+t_radio|Air|Kailashahar|ic_fm_akashvanikailashahar.jpg|Tripura|https://air.pc.cdn.bitgravity.com/air/live/pbaudio276/playlist.m3u8
+t_radio|Air|Agra|ic_fm_akashvaniagra.jpg|Uttar Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio059/playlist.m3u8
+t_radio|Air|Ayodhya|ic_fm_akashvaniayodhya.jpg|Uttar Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio152/playlist.m3u8
+t_radio|Air|Bareilly|ic_fm_akashvanibareilly.jpg|Uttar Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio124/playlist.m3u8
+t_radio|Air|FM Rainbow Kanpur|ic_fm_fmrainbowkanpur.jpg|Uttar Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio058/playlist.m3u8
+t_radio|Air|FM Rainbow Lucknow|ic_fm_fmrainbowlucknow.jpg|Uttar Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio047/playlist.m3u8
+t_radio|Air|Gorakhpur|ic_fm_akashvanigorakhpur.jpg|Uttar Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio203/playlist.m3u8
+t_radio|Air|Jhansi|ic_fm_akashvanijhansi.jpg|Uttar Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio099/playlist.m3u8
+t_radio|Air|Kanpur|ic_fm_akashvanikanpur.jpg|Uttar Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio194/playlist.m3u8
+t_radio|Air|KumbhVani|ic_fm_kumbhvani.jpg|Uttar Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio300/playlist.m3u8
+t_radio|Air|Lucknow|ic_fm_akashvanilucknow.jpg|Uttar Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio046/playlist.m3u8
+t_radio|Air|Mathura|ic_fm_akashvanimathura.jpg|Uttar Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio067/playlist.m3u8
+t_radio|Air|Najibabad|ic_fm_akashvaninajibabad.jpg|Uttar Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio162/playlist.m3u8
+t_radio|Air|Obra|ic_fm_akashvaniobra.jpg|Uttar Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio235/playlist.m3u8
+t_radio|Air|Prayagraj|ic_fm_akashvaniprayagraj.jpg|Uttar Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio125/playlist.m3u8
+t_radio|Air|Rampur|ic_fm_akashvanirampur.jpg|Uttar Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio179/playlist.m3u8
+t_radio|Air|Varanasi|ic_fm_akashvanivaranasi.jpg|Uttar Pradesh|https://air.pc.cdn.bitgravity.com/air/live/pbaudio094/playlist.m3u8
+t_radio|Air|Almora|ic_fm_akashvanialmora.jpg|Uttarakhand|https://air.pc.cdn.bitgravity.com/air/live/pbaudio122/playlist.m3u8
+t_radio|Air|Dehradun|ic_fm_akashvanidehradun.jpg|Uttarakhand|https://air.pc.cdn.bitgravity.com/air/live/pbaudio191/playlist.m3u8
+t_radio|Air|Pauri|ic_fm_akashvanipauri.jpg|Uttarakhand|https://air.pc.cdn.bitgravity.com/air/live/pbaudio107/playlist.m3u8
+t_radio|Air|Bangla|ic_fm_akashvanibangla.jpg|West Bengal|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio137/hlspbaudio137_Auto.m3u8
+t_radio|Air|FM Gold Kolkata|ic_fm_fmgoldkolkata.jpg|West Bengal|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio057/hlspbaudio057_Auto.m3u8
+t_radio|Air|FM Rainbow Kolkata|ic_fm_fmrainbowkolkata.jpg|West Bengal|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio058/hlspbaudio058_Auto.m3u8
+t_radio|Air|Kolkata Geetanjali|ic_fm_akashvanikolkatageetanjali.jpg|West Bengal|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio055/hlspbaudio055_Auto.m3u8
+t_radio|Air|Kolkata Sanchayita|ic_fm_akashvanikolkatasanchayita.jpg|West Bengal|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio056/hlspbaudio056_Auto.m3u8
+t_radio|Air|Kurseong|ic_fm_akashvanikurseong.jpg|West Bengal|https://air.pc.cdn.bitgravity.com/air/live/pbaudio183/playlist.m3u8
+t_radio|Air|Maitree|ic_fm_akashvanimaitree.jpg|West Bengal|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio245/hlspbaudio245_Auto.m3u8
+t_radio|Air|Murshidabad|ic_fm_akashvanimurshidabad.jpg|West Bengal|https://air.pc.cdn.bitgravity.com/air/live/pbaudio169/playlist.m3u8
+t_radio|Air|Shantiniketan|ic_fm_akashvanishantiniketan.jpg|West Bengal|https://air.pc.cdn.bitgravity.com/air/live/pbaudio247/playlist.m3u8
+t_radio|Air|Siliguri|ic_fm_akashvanisiliguri.jpg|West Bengal|https://air.pc.cdn.bitgravity.com/air/live/pbaudio164/playlist.m3u8
+t_radio|Air|vbs Kolkata|ic_fm_vbskolkata.jpg|West Bengal|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio275/hlspbaudio275_Auto.m3u8
