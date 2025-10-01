@@ -53,7 +53,7 @@
           "id": "radio_data",
           "version": 20240523,
           "type": "DB_UPDATE",
-          "url": "https://cdn.jsdelivr.net/gh/pbhandarapp/setup@main/t_fmradio_data1.csv",
+          "url": "https://cdn.jsdelivr.net/gh/pbhandarapp/setup@main/t_fmradio_data.csv",
           "params": {
             "part": "data",
             "table": "t_radio"
@@ -63,7 +63,7 @@
           "id": "radio_icons",
           "version": 20240523,
           "type": "UNZIP_ICONS",
-          "url": "https://cdn.jsdelivr.net/gh/pbhandarapp/setup@main/setup_icon.zip",
+          "url": "https://cdn.jsdelivr.net/gh/pbhandarapp/setup@main/ic_fm.zip",
           "params": {
             "folder": "icon_fmradio"
           }
@@ -117,4 +117,5 @@
       ]
     }
   ]
+
 }
